@@ -8,3 +8,9 @@ http://liujinkai.com/2017/10/28/js-miner/
 
 ----------
 領錢查: coinhive getmonero
+
+申請錢包的教學: https://lafudoci.gitbooks.io/monero-xmr/content/mymonerocom.html
+
+在台灣買賣比特幣的買賣交易平台教學與買賣交易平台整理: http://www.joe-reflections.com/2017/07/bitcoin-twd-ntd-exchange-rate-bitcoin.html
+
+門羅幣/Monero XMR/TWD 匯率: https://www.coingecko.com/zh-tw/%E5%8C%AF%E7%8E%87%E5%9C%96/%E9%96%80%E7%BE%85%E5%B9%A3/twd
